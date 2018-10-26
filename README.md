@@ -76,17 +76,17 @@ ICM Problem F (policy)
 
 
 
-###书籍资源目录(Book source)
+### 书籍资源目录(Book source)
 > 删除线是暂未找到的资源
 > 粗体是新添加的资源
 
 
-####Matlab
+#### Matlab
 * 《数学模型》- 姜启源
 * ~~数学建模方法与分析.(新西兰)Mark.M．Meerschaert~~
 * ~~《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊~~
 * 数学建模教材
-####Python
+#### Python
 * 《Python学习手册（原书第4版）》
 * [美]埃里克·马瑟斯-Python编程：从入门到实践
 * Python数据分析基础教程：NumPy学习指南（第2版）
@@ -94,7 +94,7 @@ ICM Problem F (policy)
 * Python网络数据采集
 * ~~《NumPy攻略  Python科学计算与数据分析》~~
 * Python机器学习-北京理工大学课件
-####LaTeX
+#### LaTeX
 * LaTeX For Beginners.pdf
 
 
