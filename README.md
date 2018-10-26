@@ -24,28 +24,28 @@ ICM Problem F (policy)
 
 ###编程工具(Srograming Tools)
 
-1. Matlab
-2. Python（Numpy，Matplot,Panda）
-3. Mathmatica
-4. SPSS
+* Matlab
+* Python（Numpy，Matplot,Panda）
+* Mathmatica
+* SPSS
 
 ###论文写作（Paper Writting）
 
-1. LaTeX
-2. Word（不推荐）
+* LaTeX
+* Word（不推荐）
 
 ###插图制作(Making Diagram)
 
-4. PowerPoint
-5. Keynote 幻灯片制作
-6. Xmind : 脑图制作工具
+* PowerPoint
+* Keynote 幻灯片制作
+* Xmind : 脑图制作工具
 
 ###团队协作（Colaboration）
 
-1. 有道云协作 : (可选)
-2. Teamviewer : 远程桌面协作工具
-3. Tim: 合理利用日程管理
-4. Markdown编辑器
+* 有道云协作 : (可选)
+* Teamviewer : 远程桌面协作工具
+* Tim: 合理利用日程管理
+* Markdown编辑器
 
 
 ##实用资源(Source)
@@ -54,39 +54,45 @@ ICM Problem F (policy)
 
 ####Matlab
 
-1. [MATLAB教程系列](https://www.bilibili.com/video/av14503445/)
+* [MATLAB教程系列](https://www.bilibili.com/video/av14503445/)
 ####Python
 
-1. [Numpy & Pandas (Python 数据处理教程)](https://www.bilibili.com/video/av16378934/)
+* [Numpy & Pandas (Python 数据处理教程)](https://www.bilibili.com/video/av16378934/)
 
 ####LaTeX
 
-1. [latex中文教程-15集从入门到精通包含各种latex操作]()
+* [latex中文教程-15集从入门到精通包含各种latex操作]()
 
 ###实用网站(Useful Website)
 
-1. [美赛官网](http://www.comap.com/undergraduate/contests/)
-2. [美赛中文网](http://www.mcmbooks.net)
-3. [中南大学图书馆（论文参考下载）](http://lib.csu.edu.cn)
-4. [Wolfram](https://www.wolframalpha.com)
-5. [Github](https://github.com)
-6. [Stack overflow](https://stackoverflow.com)
-7. [LaTeX官网](https://www.latex-project.org)
-8. [Matlab官网](https://www.mathworks.com/products/matlab.html)
+* [美赛官网](http://www.comap.com/undergraduate/contests/)
+* [美赛中文网](http://www.mcmbooks.net)
+* [中南大学图书馆(论文参考下载)](http://lib.csu.edu.cn)
+* [Wolfram](https://www.wolframalpha.com)
+* [Github](https://github.com)
+* [Stack overflow](https://stackoverflow.com)
+* [LaTeX官网](https://www.latex-project.org)
+* [Matlab官网](https://www.mathworks.com/products/matlab.html)
 
 
-###书籍资源(Book source)
+###书籍资源目录(Book source)
+> 删除线是暂未找到的资源
+> 粗体是新添加的资源
+
 
 ####Matlab
-1. 《数学模型》- 姜启源
-2. 数学建模方法与分析.(新西兰)Mark.M．Meerschaert.
-3. 《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊
-4. 
-
+* 《数学模型》- 姜启源
+* ~~数学建模方法与分析.(新西兰)Mark.M．Meerschaert~~
+* ~~《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊~~
+* 数学建模教材
 ####Python
-1. 《Python学习手册（原书第4版）》
-2. 《NumPy攻略  Python科学计算与数据分析》
-
+* 《Python学习手册（原书第4版）》
+* [美]埃里克·马瑟斯-Python编程：从入门到实践
+* Python数据分析基础教程：NumPy学习指南（第2版）
+* 流畅的Python 
+* Python网络数据采集
+* ~~《NumPy攻略  Python科学计算与数据分析》~~
+* Python机器学习-北京理工大学课件
 ####LaTeX
-1. LaTeX For Beginners.pdf
+* LaTeX For Beginners.pdf
 
