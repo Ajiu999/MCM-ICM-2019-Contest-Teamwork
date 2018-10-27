@@ -75,7 +75,7 @@ ICM Problem F (policy)
 * [Stack overflow](https://stackoverflow.com)
 * [LaTeX官网](https://www.latex-project.org)
 * [Matlab官网](https://www.mathworks.com/products/matlab.html)
-
+* [MCM/ICM试题库](http://www.shumo.com/wiki/doku.php?id=美国大学生数学建模竞赛_mcm_icm_历年试题)
 
 
 ### 书籍资源目录(Book source)
