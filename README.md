@@ -75,7 +75,7 @@ ICM Problem F (policy)
 * [Stack overflow](https://stackoverflow.com)
 * [LaTeX官网](https://www.latex-project.org)
 * [Matlab官网](https://www.mathworks.com/products/matlab.html)
-
+* [NumPy官方文档](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
 
 ### 书籍资源目录(Book source)
