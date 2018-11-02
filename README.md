@@ -84,8 +84,8 @@ ICM Problem F (policy)
 
 #### Matlab
 * 《数学模型》- 姜启源
-* ~~数学建模方法与分析.(新西兰)Mark.M．Meerschaert~~
-* ~~《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊~~
+* 数学建模方法与分析.(新西兰)Mark.M．Meerschaert
+* 《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊
 * 数学建模教材
 
 #### Python
