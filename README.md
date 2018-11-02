@@ -94,7 +94,7 @@ ICM Problem F (policy)
 * Python数据分析基础教程：NumPy学习指南（第2版）
 * 流畅的Python 
 * Python网络数据采集
-* ~~《NumPy攻略  Python科学计算与数据分析》~~
+* 《NumPy攻略  Python科学计算与数据分析》
 * Python机器学习-北京理工大学课件
 
 #### LaTeX
