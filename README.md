@@ -15,7 +15,6 @@ This is just for VictorNanka's team, managing the documents,  learning source an
 MCM Problem A (continuous)
 MCM Problem B (discrete)
 MCM Problem C (data insights)
-          Click here to read an overview of Problem C
 ICM Problem D (operations research/network science)
 ICM Problem E (environmental science)
 ICM Problem F (policy)
@@ -76,6 +75,8 @@ ICM Problem F (policy)
 * [LaTeX官网](https://www.latex-project.org)
 * [Matlab官网](https://www.mathworks.com/products/matlab.html)
 * [NumPy官方文档](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+* [MCM/ICM试题库](http://www.shumo.com/wiki/doku.php?id=美国大学生数学建模竞赛_mcm_icm_历年试题)
+
 
 
 ### 书籍资源目录(Book source)
@@ -85,17 +86,19 @@ ICM Problem F (policy)
 
 #### Matlab
 * 《数学模型》- 姜启源
-* ~~数学建模方法与分析.(新西兰)Mark.M．Meerschaert~~
-* ~~《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊~~
+* 数学建模方法与分析.(新西兰)Mark.M．Meerschaert
+* 《MATLAB智能算法30个案例分析》- 王小川, 史峰, 郁磊
 * 数学建模教材
+
 #### Python
 * 《Python学习手册（原书第4版）》
 * [美]埃里克·马瑟斯-Python编程：从入门到实践
 * Python数据分析基础教程：NumPy学习指南（第2版）
 * 流畅的Python 
 * Python网络数据采集
-* ~~《NumPy攻略  Python科学计算与数据分析》~~
+* 《NumPy攻略  Python科学计算与数据分析》
 * Python机器学习-北京理工大学课件
+
 #### LaTeX
 * LaTeX For Beginners.pdf
 
